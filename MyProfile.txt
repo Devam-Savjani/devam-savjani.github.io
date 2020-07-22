@@ -6,7 +6,6 @@ I am a second-year computing student at Imperial College London. I am interested
 
 ^^This is me.
 
-<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
 <span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cat Skills_and_Experience.txt
 
 Programming and problem solving are just two of my many interests. I can code in:
@@ -38,7 +37,6 @@ I have also completed some online courses including Google's Machine Learning Cr
 
 I am currently doing an internship with a charity called Insight Outreach that aims to break down the social barriers. I am remaking their website for a greater usability and also am establishing their internal use of technology so that the charity can have the most impact.
 
-<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
 <span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cat Extras.txt
 
 For the year 20/21, I have been elected to be the Hindu Society Treasurer. For the role, I have to find sponsors, manage the society's budget and also maintain a relationship with the Student Union as well as the National Hindu Student Forum.
@@ -49,19 +47,18 @@ One of the best experiences in my life has been when I was accepted to the Virgi
 
 I was also part of the Air Cadets, where I was able to develop many skills which include focus, resilience and analytical skills to name a few. while partaking in many activities, for example, finishing a 50-mile walk and much more. Being part of the cadets was like no other as it gave me a different outlook and mentality.
 
-<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
 <span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd Gallary
 <section class="container">
     <div class="wrapper">
-        <img class="gal" src="images/Edited/BirdInSea.png" alt="">
-        <img class="gal" src="images/Edited/BarcaFlower.png" alt="">
-        <img class="gal" src="images/Edited/Hogwarts.png" alt="">
-        <img class="gal" src="images/Edited/NY.png" alt="">
-        <img class="gal" src="images/Edited/Lnd3Lads.png" alt="">
-        <img class="gal" src="images/Edited/JumpOnBeach.png" alt="">
-        <img class="gal" src="images/Edited/NorwayChannel.png" alt="">
-        <img class="gal" src="images/Edited/RealEffiel.png" alt="">
-        <img class="gal" src="images/Edited/ParisRoad.png" alt="">
+        <img class="gal" src="./images/BirdInSea.png" alt="">
+        <img class="gal" src="images/BarcaFlower.png" alt="">
+        <img class="gal" src="images/Hogwarts.png" alt="">
+        <img class="gal" src="images/NY.png" alt="">
+        <img class="gal" src="images/Lnd3Lads.png" alt="">
+        <img class="gal" src="images/JumpOnBeach.png" alt="">
+        <img class="gal" src="images/NorwayChannel.png" alt="">
+        <img class="gal" src="images/RealEffiel.png" alt="">
+        <img class="gal" src="images/ParisRoad.png" alt="">
     </div>
 </section>
 
