@@ -1,0 +1,76 @@
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cat About_Me.txt
+
+I am a second-year computing student at Imperial College London. I am interested in <span id="k">Fintech</span> and <span id="k">Data science</span> and would love to gain more experience in those fields.
+
+<img src="Me.jpg" alt="Me" width="750px" height="750px" style="border-radius: 10px">
+
+^^This is me.
+
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cat Skills_and_Experience.txt
+
+Programming and problem solving are just two of my many interests. I can code in:
+<a id="b"> > Haskell</a>
+<a id="b"> > Java</a>
+<a id="b"> > C</a>
+<a id="b"> > Python</a>
+<a id="b"> > Go</a>
+<a id="b"> > Kotlin</a>
+<a id="b"> > HTML</a>
+<a id="b"> > CSS</a>
+<a id="b"> > Javascript</a>
+<a id="b"> > JSX</a>
+<a id="b"> > SQL</a>
+
+I also have experience with the following: 
+<a id="c"> > LaTeX</a>
+<a id="c"> > NodeJS</a>
+<a id="c"> > ReactJS</a>
+<a id="c"> > Assembly</a>
+<a id="c"> > Android App Development using Android Studio</a>
+<a id="c"> > Git</a>
+<a id="c"> > Windows</a>
+<a id="c"> > Linux</a>
+
+I have also completed countless projects and hackathons some of which can be found on my <a href="https://github.com/Devam-Savjani">Github</a>. A currect project I am partaking in is a trading bot where we, using the Luno API and Go, are using numerous trading strategies and statistics to create a prediction on the market.
+
+I have also completed some online courses including Google's Machine Learning Crash Course, Harvard's Introduction to Artificial Intelligence and a Hands on Cyber Security course and numerous Kaggle data science mini-courses.
+
+I am currently doing an internship with a charity called Insight Outreach that aims to break down the social barriers. I am remaking their website for a greater usability and also am establishing their internal use of technology so that the charity can have the most impact.
+
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cat Extras.txt
+
+For the year 20/21, I have been elected to be the Hindu Society Treasurer. For the role, I have to find sponsors, manage the society's budget and also maintain a relationship with the Student Union as well as the National Hindu Student Forum.
+
+I also play a range of sports, I played table tennis for my local club and I also discovered a sport called Kabaddi. Furthermore, I have also taken up the role of social secretary.
+
+One of the best experiences in my life has been when I was accepted to the Virgin Atlantic's Be the Change Scholarship where I and a group of 29 went to a small village in India and built a school for local children. During the 3 weeks I volunteered, I developed countless skills and learnt a lot about how people live in poverty, developing projects to help social issues we face.
+
+I was also part of the Air Cadets, where I was able to develop many skills which include focus, resilience and analytical skills to name a few. while partaking in many activities, for example, finishing a 50-mile walk and much more. Being part of the cadets was like no other as it gave me a different outlook and mentality.
+
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd Gallary
+<section class="container">
+    <div class="wrapper">
+        <img class="gal" src="images/Edited/BirdInSea.png" alt="">
+        <img class="gal" src="images/Edited/BarcaFlower.png" alt="">
+        <img class="gal" src="images/Edited/Hogwarts.png" alt="">
+        <img class="gal" src="images/Edited/NY.png" alt="">
+        <img class="gal" src="images/Edited/Lnd3Lads.png" alt="">
+        <img class="gal" src="images/Edited/JumpOnBeach.png" alt="">
+        <img class="gal" src="images/Edited/NorwayChannel.png" alt="">
+        <img class="gal" src="images/Edited/RealEffiel.png" alt="">
+        <img class="gal" src="images/Edited/ParisRoad.png" alt="">
+    </div>
+</section>
+
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cd ..
+<span id="a">Devam@Savjani</span>:<span id="b">~</span><span id="c">$</span> cat Contact_Links.txt
+
+Below are some links in which you can contact me: 
+<br> <a href="https://www.linkedin.com/in/devam-savjani/">LinkedIn</a>
+<br> <a href="https://github.com/Devam-Savjani">Github</a>
+<br> <a href="mailto:devamsavjani@rocketmail.com">Email</a>
+
+Thank you for visiting my page!
