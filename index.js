@@ -94,7 +94,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 1;
+Typer.speed = 3;
 Typer.file = "MyProfile.txt";
 Typer.init();
 
